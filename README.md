@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Divyanshu Soni</h1>
 <h3 align="center">A passionate software testing student dedicated to solving problems and building creative projects. I thrive on tackling challenging data-related issues and delivering innovative solutions. Open to collaborations and continuously seeking opportunities to grow and enhance my skills. Let's uncover insights and create something amazing together!</h3>
 
+Software Tester | API Testing | Web Testing | APP Testing | Restful Web services | Selenium | Test Cases and Test Suites | TestNG | |JIRA | Appium | Jmeter | CI & CD |
 <br>
 
 ## 📫 How to Reach Me
